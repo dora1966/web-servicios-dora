@@ -1,0 +1,46 @@
+body{
+    background-color:azure;
+}
+
+div{
+    background-color: black;
+    color: white;
+    margin-left: 85px;
+    margin-right: 250px;
+    margin-top: 50px;
+    padding: 50px 0px 50px 50px;
+}
+
+p{
+    background-color: blue;
+    color:white;
+    font-weight: bolder;
+    margin-right: 400px;
+    margin-left: 400px;
+    padding-left: 11%;
+    margin-left: 185px;
+
+}
+
+ol li{
+    color: red;
+    font-weight: bold;
+    margin-left: 85px;
+}
+
+ul li{
+    color: rgba(3, 32, 12, 0.644);
+    font-weight: bold;
+    margin-left: 85px;
+}
+
+h3{
+    background-color: rgb(22, 5, 105);
+    color: white;
+    margin-left: 85px;
+    margin-right: 750px;
+    margin-top: 20px;
+    padding: 10px 0px 10px 10px;
+}
+
+
